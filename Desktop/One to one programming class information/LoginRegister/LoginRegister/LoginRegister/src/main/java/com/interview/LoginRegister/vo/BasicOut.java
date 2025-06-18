@@ -1,4 +1,4 @@
-package vo;
+package com.interview.LoginRegister.vo;
 
 import java.util.ArrayList;
 import java.util.Collections;

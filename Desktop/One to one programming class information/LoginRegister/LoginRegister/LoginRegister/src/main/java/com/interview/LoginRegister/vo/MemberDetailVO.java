@@ -1,4 +1,4 @@
-package vo;
+package com.interview.LoginRegister.vo;
 
 import lombok.Getter;
 import lombok.Setter;

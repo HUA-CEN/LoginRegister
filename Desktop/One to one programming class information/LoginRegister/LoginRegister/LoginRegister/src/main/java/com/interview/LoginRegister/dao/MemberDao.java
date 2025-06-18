@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 import com.interview.LoginRegister.entity.MemberEntity;
 import com.interview.LoginRegister.repo.MemberRepo;
 
-import vo.MemberDetailVO;
+import com.interview.LoginRegister.vo.MemberDetailVO;
 
 @Repository   
 public class MemberDao {

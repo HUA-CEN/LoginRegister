@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import com.interview.LoginRegister.dao.MemberDao;
 import com.interview.LoginRegister.entity.MemberEntity;
 
-import vo.MemberDetailVO;
+import com.interview.LoginRegister.vo.MemberDetailVO;
 
 @Service
 public class LoginRegisterService {

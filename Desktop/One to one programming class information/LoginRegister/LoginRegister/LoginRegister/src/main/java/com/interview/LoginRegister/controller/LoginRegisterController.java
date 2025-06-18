@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.interview.LoginRegister.service.LoginRegisterService;
 import com.interview.LoginRegister.service.MemberService;
 
-import vo.BasicOut;
-import vo.MemberDetailVO;
+import com.interview.LoginRegister.vo.BasicOut;
+import com.interview.LoginRegister.vo.MemberDetailVO;
 
 @RestController  
 @RequestMapping(value = "/login")
